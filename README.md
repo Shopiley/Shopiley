@@ -8,9 +8,9 @@ I'm a third year Computer Science student by day. HNG intern and open source con
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [adebayomoshope@gmail.com](mailto:adebayomoshope@gmail.com)
-* 🧠  I'm learning Flask for backend development
+* 🧠  I'm learning Flask and FastAPI for backend development
 * 🤝  I'm open to collaborating on interesting and impactful projects
-* ⚡  I love love python.
+* ⚡  And I love love python.
 
 ### Skills
 
