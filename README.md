@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Web Developer
 ------------------------
 
-I'm a third year Computer Science student by day. HNG intern and open source contributor by night.
-
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [adebayomoshope@gmail.com](mailto:adebayomoshope@gmail.com)
 * 🧠  I'm very interested in backend development
