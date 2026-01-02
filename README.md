@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Web Developer
 ------------------------
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in London, UK
 * ✉️  You can contact me at [adebayomoshope@gmail.com](mailto:adebayomoshope@gmail.com)
 * 🧠  I'm very interested in backend development
 * 🤝  I'm open to collaborating on interesting and impactful projects
